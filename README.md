@@ -1,5 +1,16 @@
 Face Recognition
 
+#### YOLO
+#### pytorch
+#### OpenCV
+#### Roboflow
+#### Detr
+#### Huggingface
+#### Colab
+#### Python
+#### Pandas
+#### Numpy
+
 * 표정 변화
 * 피부 상태
 * 피곤함
